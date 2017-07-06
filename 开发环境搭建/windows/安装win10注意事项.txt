@@ -1,0 +1,22 @@
+安装win10英文版注意事项
+
+1.安装多国语言版win10
+
+2.解决英文版win10系统的显示中文乱码的问题
+
+3.安装新软件
+
+4.将windows.old的users文件夹复制到f盘
+
+5.以前安装的软件一般放在D盘里，能够绿色使用则绿色使用，不能的话则试着将User里的软件配置
+文件放置到现在的User文件夹里，再不行就得重新安装软件哦
+
+6.安装软件
+everything  7zip  qq 千牛 wampserver
+
+7.将sublime text添加到右键菜单
+http://www.cnblogs.com/michael-xiang/p/4831970.html
+
+8.安装不上.net 3.5的时候是因为没有将Windows更新服务打开，到计算机管理那边打开即可或采用离线的方式来安装
+离线教程https://www.windows10.pro/win10-net-framework-3-5/
+
