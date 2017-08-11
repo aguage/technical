@@ -10,11 +10,19 @@
 租用服务器
 ssh以root，22端口链接到服务器
 从第一条命令开始
----服务器初始化 -- 
+---服务器初始化 --  
+查看yum源
+yum repolist
 1.centOS 备份软件源 下载新的yum源，具体步骤 在阿里云网站有http://mirrors.aliyun.com/help/centos
 命令：
 mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.backup   备份
 wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo 下载新的CentOS-Base.repo 到/etc/yum.repos.d/
+
+添加阿里epel源 具体步骤http://mirrors.aliyun.com/help/epel
+mv /etc/yum.repos.d/epel.repo /etc/yum.repos.d/epel.repo.backup
+mv /etc/yum.repos.d/epel-testing.repo /etc/yum.repos.d/epel-testing.repo.backup
+wget -O /etc/yum.repos.d/epel.repo http://mirrors.aliyun.com/repo/epel-7.repo
+
 yum clean all
 yum makecache    生成缓存
 yum update 升级原系统的软件
