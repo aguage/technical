@@ -1,0 +1,26 @@
+vpn：
+已做的--宣传网站，购买搬瓦工服务器，搭建ss服务器
+要做的--多学习不同渠道购买服务器，搭建用户流量管理系统，学习中国出口线路，防火墙监控规避
+要达到的目标--实现方便管理会员流量，流量控制等
+ss搭建心得=====
+1.购买国外的vps，国内的太贵了。节点位置有日本，韩国，香港，美国，新加坡，澳大利亚等，vps配置cpu，内存，io，带宽速度。测试每个节点的延迟，上传/下载速度，丢包率
+2.配置ss服务端，和流量管理用户系统
+3.推广营销
+推荐搭建学习购买vps网址
+https://www.fang2hou.com/page/2/  		shadowsocks客户端使用教程
+https://fanach.github.io/post/ss-ios/		shadowsocks客户端使用教程
+http://www.jianshu.com/p/00a95ee61bef		苹果pp助手客户端安装
+https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/2-windows-settings.md   windows下使用shadowsocks客户端
+可直接抓到本网站来
+https://unwire.hk/2017/08/07/shadowsocksr-ios/tips-2/	ss  ssr的区分说明
+
+https://vpn.fang2hou.com/			vpn网站推广参考
+https://www.tophedu.com/2016/12/18/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89-vps%E4%B8%8A%E6%90%AD%E5%BB%BAssr/   					VPS上搭建SSR
+http://soft.vpser.net/   			vps资源包
+
+https://billing.virmach.com 			vps主机购买
+
+搬瓦工
+
+https://www.vpser.net				汇集所有的vps主机购买！！！！！！！！！！！！！
+
