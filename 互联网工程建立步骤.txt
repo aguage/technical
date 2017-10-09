@@ -1,0 +1,24 @@
+web工程
+1.基于java web 
+使用IDEA 构建使用maven
+
+使用文本编辑器 目录
+创建目录=下载jar依赖包=建立mvc包(controller,util,model,service等)=开发 功能用例 url设计 数据库设计 业务逻辑流程设计
+
+2.基于php
+
+Android工程
+使用android studio ，sdk ，构建使用gradle
+
+创建工程==创建包(adapter,model, ui>activity、fragment,util,service等等)==在每个包里开始编写代码 view 布局 代码 业务逻辑
+
+现在所拥有的能力
+1.搭建开发和生产环境
+2.创建php后端工程
+3.前端基本模仿工程
+4.前端后端代码优化
+
+初步拥有
+1.javaweb开发能力
+2.android开发能力
+3.前端开发能力
