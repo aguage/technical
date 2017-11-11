@@ -103,3 +103,99 @@ javaEE利用多线程，创建线程池，连接池实现高并发
 
 ## vps 虚拟主机 云服务器区别
 虚拟主机就是空间，可以上传下载；vps就是虚拟服务器，不管是建站还是安装软件自定义系统都行；云主机就是弹性vps，当然价格和可操作性和性能都在依次提升
+
+
+
+## web后端常用功能集合
+- 数据库操作（读取，存储）
+- 缓存操作（读取，存储）内存，redis，文件，数据库
+- 文件操作（读取，存储）
+- 异常处理（自定义异常如业务异常token失效等，系统异常如代码出错，运行时异常等）
+- 数据交互（返回数据类型xml，json，html）
+- 加解密数据
+- 资源操作（如创建图片，文本，excel，word格式的文件）
+- 操作日志统计（每一次请求的记录）
+- 日期事件操作
+- 正则过滤
+- 图片操作
+
+## web后端架构
+- 框架的形成
+- 采用单例构建配置
+- 采用mvc构建请求
+- 采用依赖注入
+- 采用自动加载类
+- 采用dao映射数据库和模型
+- 图片鉴黄
+- 中文分词
+- 敏感词过滤
+## 好用的composer库，php类库
+爬虫类 
+composer require kiddyu/beanbun
+文档 http://www.beanbun.org
+
+composer require jaeger/querylist  css选择器过滤支持
+文档 https://doc.querylist.cc/
+
+数据库操作类
+composer require catfan/Medoo
+文档 http://medoo.lvtao.net/
+
+图片操作类
+composer require kosinix/grafika
+文档 https://segmentfault.com/a/1190000007411281
+
+中文分词类
+composer require fukuball/jieba-php:dev-master
+文档 https://github.com/fukuball/jieba-php
+
+http客户端
+composer require guzzlehttp/guzzle
+文档 http://guzzle-cn.readthedocs.io/zh_CN/latest/quickstart.html
+
+自己的工具类
+```
+/**
+ * @param $str 要截取的字符串，兼容中文字符
+ * @param $mark1 开始
+ * @param $mark2 结束
+ * @return bool|int|string
+ */
+
+function getNeedBetween($str,$mark1,$mark2){
+    $kw=$str;
+    $kw='123'.$kw.'123';
+    $st =mb_stripos($kw,$mark1);
+    $ed =mb_stripos($kw,$mark2);
+    echo mb_strlen($mark1);
+    if(($st==false||$ed==false)||$st>=$ed)
+        return 0;
+    $kw=mb_substr($kw,($st+mb_strlen($mark1)),($ed-$st-mb_strlen($mark2)));
+    return $kw;
+}
+```
+封装标准json格式返回
+有数据，无数据，异常错误
+
+封装curl网络请求
+
+
+分层架构
+服务层 模型层 控制器层 视图层
+
+一些标准库都是采用设计模式来构造成让开发者比较好用的样子
+
+感觉很难封装起来阿
+
+在实际项目中针对业务和功能的分层和抽象，这点很重要。分的好的话
+可以复用以前写的功能，提高开发效率
+问题是如何呢
+
+对于andorid
+分模块 --核心模块  --UI模块 --业务模块  
+分层 -- MVC  MVP
+
+对于后端
+
+分层
+数据模型层--db--业务
