@@ -1,0 +1,454 @@
+https://github.com/slince/smartqq | slince/smartqq: SmartQQ(原WebQQ)API的PHP语言实现,提供了一系列更优雅可读性更高的API
+http://agvpn.local.com/smartqq/demo/get_self_user.php | agvpn.local.com/smartqq/demo/get_self_user.php
+http://laravelacademy.org/post/7620.html | [ Laravel 5.5 文档 ] 快速入门 —— 安装配置篇 – Laravel学院
+https://d.laravel-china.org/docs/5.5/controllers | Laravel 的 HTTP 控制器 | Laravel 5.5 中文文档
+http://meitu.niemimi.com/api/v2/pic_hot_list?page=1 | meitu.niemimi.com/api/v2/pic_hot_list?page=1
+https://github.com/johnlui/Learn-Laravel-5/issues/18 | 2017 版 Laravel 系列入门教程（三）【最适合中国人的 Laravel 教程】 · Issue #18 · johnlui/Learn-Laravel-5
+https://www.google.ca/search?newwindow=1&biw=1600&bih=779&ei=stMXWu-LBNGQjwOywq7oAQ&q=service+controller+%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F&oq=service+controller+%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F&gs_l=psy-ab.3...27924.37640.0.37908.29.27.1.0.0.0.547.3053.3-3j1j3.7.0....0...1.1j4.64.psy-ab..24.0.0....0.4XJ7ivjrj5E | service controller 数据格式 - Google 搜索
+http://blog.csdn.net/bitcarmanlee/article/details/70207793 | 代码结构中Dao，Service，Controller，Util，Model是什么意思 - CSDN博客
+http://blog.csdn.net/bitcarmanlee/article/details/70207793 | 代码结构中Dao，Service，Controller，Util，Model是什么意思 - CSDN博客
+
+https://github.com/aguage/MaterialSearchView/blob/master/app/src/main/java/com/science/materialsearchview/ResultActivity.java | MaterialSearchView/ResultActivity.java at master · aguage/MaterialSearchView
+http://iconfont.cn/collections/index | Iconfont-阿里巴巴矢量图标库
+http://t.20shx.com/guanggaolianmeng.htm | 广告联盟大全 - 技术宅工具箱
+http://picsvg.com/ | Convert Picture to Svg - Picsvg
+https://makebig.coding.me/jaqen/mdpub/ | Android Material Icon Generator
+https://github.com/58code/Argo/blob/master/samples/company/pom.xml | Argo/pom.xml at master · 58code/Argo
+http://www.jianshu.com/p/66c6a97a8d80 | UI之修改Button颜色保持默认点击效果 - 简书
+http://www.tkeasy.com/#1510997967110 | 淘客易 QQ群优惠券采集系统-tkeasy.com
+https://github.com/search?l=Java&q=qq+bot&type=Repositories&utf8=%E2%9C%93 | Search · qq bot
+https://github.com/b3log/xiaov | b3log/xiaov: Yet another QQ Bot. 又一个 QQ 聊天机器人，她的名字叫做小薇~
+https://github.com/pakey/PHP-QQBot | pakey/PHP-QQBot: a qq rebot
+http://qq.gqtp.com/swoole/ind.php | qq.gqtp.com/swoole/ind.php
+https://www.qcloud.com/community/article/385799001490608925 | 三种 PHP 运行环境的性能对比 - 腾讯云社区 - 腾讯云
+http://www.catplanet.me/?id=17 | Swoole编程指南-4.3 Nginx代理配置-喵星球
+https://www.google.com/search?q=java+%E6%8F%90%E4%BE%9Bweb%E6%9C%8D%E5%8A%A1&newwindow=1&ei=YEQRWtehF-mN0gLEko6IAg&start=10&sa=N&biw=1600&bih=779 | java 提供web服务 - Google 搜索
+
+http://api.local.niemimi.com/admin/index/index | 网站后台管理模版
+https://adsuper.github.io/2017/05/05/Android%E4%B9%8BAppBarLayout/ | Android 之 AppBarLayout | 珞璃之神
+https://stackoverflow.com/questions/37540965/viewpager-with-setcurrentitemposition-false-but-with-fade-in-transition | android - ViewPager with setCurrentItem(position, false) but with fade-in transition? - Stack Overflow
+http://www.workerman.net/camera | LiveCamera | PHP+Websocket+HTML5调用摄像头实现视频直播
+https://github.com/youth5201314/banner/blob/master/app/src/main/java/com/test/banner/demo/CustomViewPagerActivity.java | banner/CustomViewPagerActivity.java at master · youth5201314/banner
+https://github.com/xuehuayous/WrapRecyclerView/blob/master/sample/src/main/java/com/kevin/wraprecyclerview/sample/activity/WarpRecyclerViewActivity.java | WrapRecyclerView/WarpRecyclerViewActivity.java at master · xuehuayous/WrapRecyclerView
+http://m.jb51.net/article/105674.htm | android中LinearLayoutManager一键返回顶部示例_Android_脚本之家
+https://muyangmin.github.io/glide-docs-cn/doc/getting-started.html | Glide v4 : 开始使用
+https://github.com/drakeet/MultiType/blob/3.x/sample/src/main/java/me/drakeet/multitype/sample/multi_select/MultiSelectActivity.java | MultiType/MultiSelectActivity.java at 3.x · drakeet/MultiType
+http://www.itvideos.info/ | 吾爱程序猿 - Java微服务视频教程,Java架构师视频,系统架构师视频,大数据开发,ssm项目实战教程,netty视频教程,机器（深度）学习/数据挖掘/算法/R语言,Android开发,web前端/javaScript/ReactNative开发,Linux/Python高级运维架构视频,老男孩linux,MySQL/Oracle数据库开发运维视频,FFmpeg视频,微服务架构,分布式系统架构,spring boot
+http://guzzle-cn.readthedocs.io/zh_CN/latest/quickstart.html#id9 | 快速入门 — Guzzle中文文档
+https://nanchen2251.github.io/2017/07/20/%E4%B8%80%E6%96%87%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82-CoordinatorLayout-%E5%92%8C-AppbarLayout-%E8%81%94%E5%8A%A8%EF%BC%8C%E8%AE%A9-Design-%E8%AE%BE%E8%AE%A1%E6%9B%B4%E7%AE%80%E5%8D%95/ | 一文彻底搞懂 CoordinatorLayout 和 AppbarLayout 联动，让 Design 设计更简单 | nanchen
+https://console.easemob.com/#/app/AppUsers?_k=xwl5uy | 环信-管理后台
+http://blog.csdn.net/carson_ho/article/details/73732076 | 这是一份很详细的 Retrofit 2.0 使用教程（含实例讲解） - CSDN博客
+http://apizza.cc/console/project/c2dde7254b5cb5fd6b579b21989bbdcf/dev | qzbd_im - apizza
+https://www.zhihu.com/question/45517397 | Android项目开发如何设计整体架构？ - 知乎
+http://www.10tiao.com/html/249/201711/2651960558/1.html | 从前端到后端，互联网分层架构设计 - 架构师之路 | 十条
+
+http://www.mmxyz.net/ | 懂的入 | ROSI写真,ROSI图片,ROSI下载
+http://www.mmxyz.net/category/rosi-video/ | rosi视频 | 懂的入
+https://github.com/aurelhubert/ahbottomnavigation | aurelhubert/ahbottomnavigation: A library to reproduce the behavior of the Bottom Navigation guidelines from Material Design.
+https://github.com/XYScience/MaterialSearchView | XYScience/MaterialSearchView: a material design search view
+https://github.com/MiguelCatalan/MaterialSearchView | MiguelCatalan/MaterialSearchView: Cute library to implement SearchView in a Material Design Approach
+https://help.aliyun.com/document_detail/53417.html?spm=5176.7828440.6.560.ZpUmvE | 图片智能鉴黄API_内容检测API_用户指南_内容安全-阿里云
+https://www.codecasts.com/ | PHP Laravel Vue.js 视频教程 - CODECASTS
+http://www.mzitu.com/all/ | 每日更新 - 妹子图
+https://doc.querylist.cc/site/index/doc/19 | find - 选择元素 - QueryList 4.0 指导文档
+http://ht.gqtp.com/index.php/Collection | 高清图片后台管理-后台管理
+https://my.vultr.com/billing/ | Billing - Vultr.com
+https://www.google.ca/search?newwindow=1&ei=7RD9WcaiNIG3jwTFvbu4AQ&q=CardView+%E9%98%B4%E5%BD%B1&oq=CardView+%E9%98%B4%E5%BD%B1&gs_l=psy-ab.3...3378.440388.0.440653.14.11.2.0.0.0.580.2122.2-3j1j1j1.6.0....0...1.1j4.64.psy-ab..8.3.256...0j35i39k1j0i10k1.0.cWZRp94ZH4o | CardView 阴影 - Google 搜索
+http://blog.csdn.net/copy_yuan/article/details/51882041 | Android--添加阴影效果--CardView的使用 - CSDN博客
+http://qztqd.local.com/admin/main | 天骄跆拳道-后台管理
+http://ht.gqtp.com/index.php/Collection | 高清图片后台管理-后台管理
+http://www.jianshu.com/p/7e0273bbe3f1 | Android-RecycleView上拉加载更多 - 简书
+http://api.local.niemimi.com/admin/index/index | 网站后台管理模版
+http://www.jianshu.com/p/258d0dca4791 | 实战RecyclerView头部尾部添加方法 - 简书
+http://www.codeceo.com/article/android-toolbar-develop.html | 最详细的 Android Toolbar 开发实践总结 – 码农网
+http://wuxiaolong.me/2015/11/10/toolbar/ | Android Toolbar | 吴小龙同學
+http://www.cpacm.net/2017/03/09/Android%E5%BC%80%E5%8F%91%E6%97%A5%E8%AE%B0%EF%BC%88%E5%8D%81%E4%B8%83%EF%BC%89%E2%80%94%E2%80%94CoordinatorLayout%20%E4%B8%8A%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B8%83%E5%B1%80%E6%8A%80%E5%B7%A7/ | Android开发日记（十七）—— CoordinatorLayout 上的一些布局技巧 | cpacm
+http://blog.csdn.net/yangshangwei/article/details/50832862 | CoordinatorLayout+AppBarLayout实现上滑隐藏ToolBar-Android M新控件 - CSDN博客
+http://www.52jb.net/shouji/3816.html | CoordinatorLayout实现多种滚动效果(浮动、扩展Toolbar、扩展或收缩)_Android_五二脚本
+
+http://dev.e.qq.com/dev/#medium/step1?mbid=l82760477&mid=l0 | 腾讯广告联盟
+http://app.mi.com/searchAll?keywords=%E7%BE%8E%E5%A5%B3&typeall=phone&page=1 | 包含"美女"的相关应用-小米应用商店
+https://dev.mi.com/console/ | 小米开放平台 - 首页
+http://mobile.umeng.com/apps/8210005240971dea6043be95/error_types | 美女图片 错误分析美女图片 错误列表 - umeng.com
+http://www.jianshu.com/p/bad053f559d7 | 关于安卓APP上传到各大应用市场教程整理 - 简书
+file:///C:/Users/mrhua/Desktop/app%E5%BA%94%E7%94%A8/GDT_Android_SDK/GDT%20DEV%20guide.4.12.html | GDT DEV guide.4.12
+https://github.com/crazyfd/phpaes | crazyfd/phpaes: java用aes加密结果用PHP解密
+http://www.imooc.com/course/list?c=mobile&page=3 | 移动开发视频教程_移动开发实战培训_慕课网
+http://www.2mme.cc/ | 恋恋视频 - 恋恋影视-美女视频-写真视频-美女视频下载
+http://www.mmxyz.net/ | 懂的入 | ROSI写真,ROSI图片,ROSI下载
+http://meinv.gqtp.com/list_12.html | 欧美美女图片
+http://gad.qq.com/article/detail/34847?sessionUserType=BFT.PARAMS.239928.TASKID&ADUIN=82760477&ADSESSION=1508997683&ADTAG=CLIENT.QQ.5533_.0&ADPUBNO=26719 | 做开发十年，我总结出了这些开发经验-GAD腾讯游戏开发者平台
+https://www.youmi.net/login.html#sign_in | 登录 - 有米广告
+http://blog.csdn.net/qq_26787115/article/details/51602032 | RxVolley使用文档 —— RxVolley = Volley + RxJava + OkHttp - 刘桂林的博客 - CSDN博客
+https://github.com/mikepenz/Android-Iconics | mikepenz/Android-Iconics: Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
+http://fontawesome.io/icon/home/ | fa-home: Font Awesome Icons
+https://play.google.com/store/apps/details?id=com.mikepenz.iconics.sample | Iconics Library - Google Play 上的 Andr​​oid 应用
+https://www.baidu.com/s?wd=material%20design%20android&pn=20&oq=material%20design%20android&ie=utf-8&usm=1&rsv_pq=b85673c50001e8ca&rsv_t=2dcfBUWTgt%2B1yZ4jyNyjZ93%2BMEYezZzCyy2Gqq%2B9%2B%2FOOJ%2FQ4ylTZsofVXRE&rsv_page=1 | material design android_百度搜索
+http://www.cnblogs.com/android-blogs/p/5632103.html | Android Material Design简单使用 - Sun‘刺眼的博客 - 博客园
+http://blog.csdn.net/a396901990/article/details/40187769 | ANDROID L——Material Design详解（UI控件） - CSDN博客
+
+http://union.baidu.com/client/?castk=91957ug7b57f3f627d160#/cooperation/cpro/adposMg | 百度联盟
+https://github.com/AdleyLong/LoadView/blob/master/app/src/main/java/com/picasso/loadview/MainActivity.java | LoadView/MainActivity.java at master · AdleyLong/LoadView
+http://www.loongwind.com/archives/189.html | Android中Recyclerview监听是否滑动到底部 | Android | LoongWind
+http://mm131.gqtp.com/index/index/appGeneralize | mm131.gqtp.com/index/index/appGeneralize
+http://blog.csdn.net/ningjin1/article/details/53611701 | Glide下载图片并保存到指定路径 - CSDN博客
+http://blog.csdn.net/ys743276112/article/details/51910874 | Android必知必会-App 常用图标尺寸规范汇总 - 他叫自己Mr.张 - CSDN博客
+http://icon.wuruihong.com/icon/V2B27ZEx#/android | 图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标
+http://blog.csdn.net/qq_34501274/article/details/71631036 | 验证Glide图片异步缓存，再次打开程序优先从内存/磁盘中加载图片 - qq_34501274的博客 - CSDN博客
+http://www.imooc.com/video/13040 | RecyclerView编码-多种样式的列表实现(上)-慕课网
+http://www.cnblogs.com/soaringEveryday/p/4835839.html | 最清晰的Android多屏幕适配方案 - soaringEveryday - 博客园
+http://blog.csdn.net/chay_chan/article/details/76984665 | Android获取本机各种类型文件列表（音乐、视频、图片、文档等） - Chay_Chan的博客 - CSDN博客
+https://github.com/chaychan/BlogFileResource/blob/master/phone/FileUtils.java | BlogFileResource/FileUtils.java at master · chaychan/BlogFileResource
+http://www.jianshu.com/p/3b269082cbbb | 使用 Okhttp 下载文件和更新进度条 - 简书
+http://122.114.153.37:8099/v1/upgradeCheck.do | 122.114.153.37:8099/v1/upgradeCheck.do
+http://www.sunnyang.com/364.html | OkHttp使用详解一 | SUNNY空间
+http://www.jianshu.com/p/8752d6258e4f | Android版本升级下载apk文件，UI进度条显示，自动安装apk的三种方式（AsyncTa... - 简书
+http://blog.csdn.net/a85454597/article/details/51719693 | 使用android自带的DownloadManager来实现版本更新 - 箍心而行 - CSDN博客
+http://www.jianshu.com/p/dc9387417914 | Android 显示和隐藏软键盘 - 简书
+
+http://www.lmjia.com/item-list-6.html | 广告联盟,,
+http://www.swiper.com.cn/ | Swiper中文网
+https://www.processon.com/diagraming/59df50a2e4b0afb79806572c | 未命名文件 - ProcessOn
+https://ninghao.net/blog/2136 | 学习手册：Web 开发环境与服务器生产环境 - 宁皓网
+https://app.vagrantup.com/boxes/search?provider=vmware&q=centos+6.8&sort=downloads&utf8=%E2%9C%93 | Discover Vagrant Boxes - Vagrant Cloud
+https://github.com/chentao0707/SimplifyReader | chentao0707/SimplifyReader: 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！
+https://github.com/shichaohui/AnimRefreshRecyclerView | shichaohui/AnimRefreshRecyclerView: 下拉刷新和上拉加载更多的RecyclerView，具有下拉和刷新动画。
+https://github.com/leoleohan/RecyclerRefresh | leoleohan/RecyclerRefresh: Android使用SwipeRefreshLayout和RecyclerView实现仿简书下拉刷新和上拉加载更多
+https://github.com/shichaohui/AnimRefreshRecyclerView/blob/master/app/src/main/java/com/sch/rfview/example/fragment/GridFragment.java | AnimRefreshRecyclerView/GridFragment.java at master · shichaohui/AnimRefreshRecyclerView
+https://github.com/WuXiaolong/PullLoadMoreRecyclerView/blob/master/library/src/main/java/com/wuxiaolong/pullloadmorerecyclerview/PullLoadMoreRecyclerView.java | PullLoadMoreRecyclerView/PullLoadMoreRecyclerView.java at master · WuXiaolong/PullLoadMoreRecyclerView
+https://github.com/igeek-YZ/HFRecycleView | igeek-YZ/HFRecycleView: 带头部(headView)和底部(footView)和下拉刷新，点击事件的RecycleView
+http://m.enterdesk.com/ | 回车桌面_桌面壁纸 壁纸图片 电脑桌面壁纸 手机壁纸 图片大全
+http://m.lovefou.com/ | 爱否图库（爱否微娱乐） - 你想看的这里都有（手机版）
+http://www.mohecm.com/register | 注册 - 墨禾传媒
+http://union.sogou.com/loginauth.action | 搜狗联盟
+http://www.mhkkm.la/shaonvmanhua/ | 少女漫画_邪恶少女漫画_少女漫画大全_邪恶漫画少女漫画
+https://pan.baidu.com/share/link?uk=340820388&shareid=1527191425#list/path=%2F%E5%AE%89%E5%8D%93%2F%E9%BB%91%E9%A9%AC28%E6%9C%9F%E5%AE%8C%E6%95%B4%E7%89%88android%2028&parentPath=%2F | 安卓_免费高速下载|百度网盘-分享无限制
+https://pan.baidu.com/share/link?uk=1778639259&shareid=298680600#list/path=%2FStudy%2FJava%2F2017%E5%B9%B4%E8%BE%BE%E5%86%85java%E8%A7%86%E9%A2%91&parentPath=%2FStudy%2FJava | 2017年达内java视频_免费高速下载|百度网盘-分享无限制
+http://blog.csdn.net/sinat_14849739/article/details/78077009 | IDEA创建JavaWeb项目 - Shawpoo的专栏 - CSDN博客
+https://pan.baidu.com/share/link?uk=3141498366&shareid=2588490950#list/path=%2F%E6%85%95%E8%AF%BE%E7%BD%91-1%2F%E5%B9%95%E8%AF%BE%E7%BD%91%200.0&parentPath=%2F | 慕课网-1_免费高速下载|百度网盘-分享无限制
+http://baijiahao.baidu.com/builder/app/register?type=individual | 注册百家号-百家号
+https://pan.baidu.com/share/link?uk=2655036877&shareid=1935414123#list/path=%2F%E9%BB%91%E9%A9%ACJavaEE%20%2B%20Android%E5%B0%B1%E4%B8%9A%E7%8F%AD%E8%A7%86%E9%A2%91%E3%80%9060G%E3%80%91%2F63%E5%88%B070%E5%A4%A9&parentPath=%2F | 黑马JavaEE + Android就业班视频【60G】_免费高速下载|百度网盘-分享无限制
+
+http://www.iplaysoft.com/wox.html | Wox - 开源免费强大的快捷启动器辅助工具，快速高效率打开软件/搜索文件！ | 异次元软件下载
+http://www.laozuo.org/ | 老左博客 - 便宜VPS_美国主机_域名优惠码_免费VPS及VPS教程
+http://www.87994.com/read/5b6327563f2e4c0bdcd96bd0.html | NCRE各种软件安装技巧_学习资料共享网
+http://www.jianshu.com/p/3c30dcc352f9 | 关于Java，我做过的书，从浅到深 - 简书
+http://www.runoob.com/w3cnote/android-tutorial-fragment-base.html | 5.1 Fragment基本概述 | 菜鸟教程
+https://stackoverflow.com/questions/11589107/installing-sql-server-2012-error-prior-visual-studio-2010-instances-requiring | Installing SQL Server 2012 - Error: Prior Visual Studio 2010 instances requiring update - Stack Overflow
+http://www.v5cn.cn/?p=208 | 使用jQuery.form插件实现表单异步提交+上传文件 | 平常心博客
+https://segmentfault.com/a/1190000004322358 | JavaScript：彻底理解同步、异步和事件循环(Event Loop) - 追根溯源 - SegmentFault
+https://biliworld.com/s/0/vs2017/0/0/1/ | vs2017热门资源网盘下载 - vs20172017最新资源下载 - 哔哩网盘搜索
+https://pan.baidu.com/share/link?uk=1225165419&shareid=3835544551#list/path=%2F&parentPath=%2F%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6 | C语言环境搭建_免费高速下载|百度网盘-分享无限制
+https://pan.baidu.com/disk/home#list/vmode=list&path=%2FTaobao%2F%E7%B2%BE%E5%93%81%E8%BD%AF%E4%BB%B6%2FZendstudio | 百度网盘-全部文件
+https://pan.baidu.com/share/link?uk=3878891211&shareid=2967306953#list/path=%2F%E5%90%95%E9%91%AB%E8%80%81%E5%B8%88%EF%BC%9A%E5%85%A8%E9%83%A8%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B&parentPath=%2F | 吕鑫老师：全部视频教程_免费高速下载|百度网盘-分享无限制
+https://www.google.com/search?newwindow=1&q=%E5%90%8C%E6%AD%A5+%E5%B9%B6%E5%8F%91+%E4%BA%8B%E4%BB%B6+%E5%BC%82%E6%AD%A5&oq=%E5%90%8C%E6%AD%A5+%E5%B9%B6%E5%8F%91+%E4%BA%8B%E4%BB%B6+%E5%BC%82%E6%AD%A5&gs_l=serp.3..30i10k1.1357296.1363477.0.1363652.8.8.0.0.0.0.882.1892.3-3j6-1.4.0....0...1.1j4.64.serp..4.1.361.N75sjLxzDWE | 同步 并发 事件 异步 - Google 搜索
+http://www.cnblogs.com/sharpxiajun/p/3870797.html | 架构设计：前后端分离之Web前端架构设计 - 夏天的森林 - 博客园
+http://pcedu.pconline.com.cn/667/6670596.html | 4s降级6.1.3教程放出!小白也可4s降级!_iOS资讯_太平洋电脑网PConline
+http://hd.gqtp.com/index.php/Web | 没妖气后台管理-后台管理
+https://www.google.com/search?newwindow=1&q=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91+%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6&oq=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91+%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6&gs_l=serp.3...160346.163709.0.164065.12.10.0.0.0.0.439.868.4-2.2.0....0...1.1j4.64.serp..10.1.438...0j0i12k1.tzEUciGWUFk | 科学上网 流量控制 - Google 搜索
+http://yingxiao.baidu.com/support/union/detail_7139.html?castk=LTE%3D | 优化代码位加载顺序，有效提高点击单价_百度联盟_百度推广帮助
+
+http://www.yiichina.com/video | 视频 - Yii Framework 中文社区
+http://www.yiichina.com/video/9 | 2.3 布局、应用主体 - 视频 - Yii Framework 中文社区
+https://segmentfault.com/q/1010000000652087 | php - 验证写在controller还是model里？ - SegmentFault
+https://segmentfault.com/q/1010000000256516 | 程序员 - 搞不清FastCgi与PHP-fpm之间是个什么样的关系 - SegmentFault
+http://ceshi8080.w.ywkjhost1.com/myceshi/8008189808/main.html | 后台管理系统
+http://www.g-tf.cn/demo/admin/ | 后台管理系统|GTF-Admin
+http://demo.larrycms.com/backstage/ | LarryCMS后台管理1.09版
+
+http://qztqd.local.com/admin/main | 天骄跆拳道-后台管理
+https://linux.cn/article-5714-1.html | nginx 配置 location 总结及 rewrite 规则写法-系统运维|Linux.中国-开源社区
+http://test.local.com/admin.php?c=login&m=index&backurl=http%253A%252F%252Ftest.local.com%252Fadmin | FineCMS管理中心
+https://zhuanlan.zhihu.com/p/25395481 | 抛开JS，单谈前端布局入门 - 知乎专栏
+http://foundation.zurb.com/ | Foundation | The most advanced responsive front-end framework in the world.
+http://zh.learnlayout.com/position.html | CSS - position
+https://www.freecodecamp.com/challenges/learn-what-to-do-if-you-get-stuck | Learn What to Do If You Get Stuck | Free Code Camp
+http://localhost:8080/index.php?r=site/say&message=Hello+World | yii\base\ErrorException
+http://www.itran.cc/2017/04/01/maintain-slim-php-mvc-frameworks-with-a-layered-structure/ | 用分层结构打造苗条MVC框架
+
+http://company.qzrc.com/99618.html | 福建省网动网络科技有限公司招聘信息 - 泉州人才网|大泉州人才网 - www.qzrc.com
+http://www.imooc.com/video/14128 | 课程介绍-慕课网
+https://www.kancloud.cn/lyconier/stepbystep/238463 | 三、项目目录规划 · ThinkPHP5项目开发“填坑”实录 · 看云
+http://www.shouce.ren/ | 网站开发教程大全 - 在线手册 - 参考手册 - 手册网
+https://www.google.com/search?q=php%E6%BA%90%E7%A0%81&oq=php%E6%BA%90%E7%A0%81&aqs=chrome..69i57j69i60l3j69i65j35i39.2503j0j7&sourceid=chrome&ie=UTF-8 | php源码 - Google 搜索
+http://www.mycodes.net/6/9.htm | PHP源码 - 下载列表 - 源码之家
+http://www.mycodes.net/43/3365.htm | PHPCMS内容管理系统 9.6.3 UTF8 - PHP源码 - 源码之家
+
+http://zh.wikihow.com/%E9%A6%96%E9%A1%B5 | wikiHow - 您可以编辑的指导手册
+http://www.neihan.net/tags/11_183.html | 邪恶动态图,邪恶gif,AV动态图,邪恶美女gif,撸图 - 内涵网
+http://m.99.com.cn/a/693965/ | 芒种节气养生：多种疾病频发要注意_芒种__99健康网手机版
+http://1230.la/xiangmu/zqxm/page/2 | 赚钱项目-第2页-无极领域
+http://1230.la/3143.html | 视频引流 搜狐视频 youtube视频赚钱 稳定3000+【附教程】-无极领域
+https://www.youtube.com/channel/UCZnt9aY0qW5qJg-M4ql1zJg | (3) 黄友志 - YouTube
+https://www.ipip.net/ip.html | IP查询_最专业的 IP 地址库_IPIP.NET
+https://think.ctolog.com/admin.html#/admin/index/main.html?spm=m-2-3 | 系统管理 - Think.Admin Demo
+https://github.com/zoujingli/ip2region | zoujingli/ip2region: 准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了php查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！
+http://hd.qztqd.com/bm/index.html | 天骄跆拳道福利来袭！新生登记短T免费领取！
+
+https://github.com/TIGERB/easy-php/blob/master/README-CN.md | easy-php/README-CN.md at master · TIGERB/easy-php
+https://github.com/TIGERB/easy-php/blob/master/app/demo/logics/UserDefinedCase.php | easy-php/UserDefinedCase.php at master · TIGERB/easy-php
+http://hd.caite.com/merchants/main
+https://github.com/TIGERB/easy-php/blob/master/README-CN.md | easy-php/README-CN.md at master · TIGERB/easy-php
+http://laravelacademy.org/post/2858.html | PHP 设计模式系列 —— 责任链模式（Chain Of Responsibilities） – Laravel学院
+https://github.com/search?p=3&q=h-ui&type=Repositories&utf8=%E2%9C%93 | Search · h-ui
+http://www.cuci.cc/wiki/view/10013.html | 广州楚才信息科技有限公司-您的私人产品团队
+http://test.local.com/ | 系统发生错误
+http://www.h-ui.net/ext/list.shtml | 扩展 - H-ui前端框架官方网站
+http://www.h-ui.net/H-ui.admin.shtml | H-ui.admin V2.4后台模版 - H-ui前端框架官方网站
+https://www.google.com/search?newwindow=1&safe=strict&q=%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86+tp5&oq=%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86+tp5&gs_l=serp.3...2998.3758.0.3865.4.4.0.0.0.0.302.302.3-1.1.0....0...1.1j4.64.serp..3.0.0.VZZOzANZexE | 权限管理 tp5 - Google 搜索
+http://www.thinkphp.cn/code/2504.html | 基于tp5管理后台tpAdmin，支持权限管理、代码自动生成 - ThinkPHP框架
+http://doc.tpadmin.yuan1994.com/225019 | 数据返回 - [ tpAdmin 文档 ]
+
+http://www.kancloud.cn/tag/ThinkPHP | [ThinkPHP] - 标签 - 看云
+http://www.kancloud.cn/yunzhiclub/thinkphp5guide/165247 | 3.2.4 间接读取数据 - [ ThinkPHP5.0入门实例教程 ]
+http://www.kancloud.cn/a113211/alls/263789 | 八、ThinkPHP5.0Auth类 - [ ThinkPhP权限管理（3.2.3-5.0） ]
+http://hd.caite.com/ind.php | hd.caite.com/ind.php
+http://fly.layui.com/case/2017/top/ | 发现Layui2017年度最佳案例
+http://demo.wifi0917.com/WebSystems/index.php | mar_admin后台管理
+https://github.com/search?o=desc&p=9&q=layui&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · layui
+https://github.com/es6china/layui_admin | es6china/layui_admin: 使用layui搭建的简单的后台管理系统
+file:///E:/aguatu/qianduan/layui_exmlpor/layui-auage/index.html | Document
+file:///E:/aguatu/qianduan/layui_exmlpor/layuiAdmin/admin/index/index.html | 网站后台管理模版
+http://www.51ym.me/#faq | 易码 - 手机短信验证码接收平台
+
+http://www.kancloud.cn/explore?page=2 | 广场 - 看云
+http://www.kancloud.cn/lyconier/stepbystep/238463 | 三、项目目录规划 - [ ThinkPHP5项目开发“填坑”实录 ]
+https://www.tianmaying.com/tutorial/AndroidMVC | Android App的设计架构：MVC,MVP,MVVM与架构经验谈-android,mvp,mvc 相关文章-天码营
+https://www.google.com/search?newwindow=1&safe=strict&biw=1600&bih=780&q=php+%E5%88%86%E5%B1%82&oq=php+%E5%88%86%E5%B1%82&gs_l=serp.3...2927.2927.0.3145.1.1.0.0.0.0.0.0..0.0....0...1.1.64.serp..1.0.0.fjOGuqVCdMM | php 分层 - Google 搜索
+https://segmentfault.com/q/1010000000440764 | mvc - PHP如何做到分层开发？ - SegmentFault
+http://www.symfonychina.com/doc/current/quick_tour/the_big_picture.html | Symfony基本面 - Symfony开源 - Symfony中国
+http://www.techug.com/post/php-design-and-cloud-architecture.html | PHP系统设计与云架构 | 程序师
+http://www.cnblogs.com/youxin/archive/2013/05/20/3089095.html | 什么是分层架构模式及常见的分层架构模式 - youxin - 博客园
+http://test.local.com/admin | 后台管理中心 - WSTMart电子商务系统
+http://www.kancloud.cn/phper123/tools/289861 | 使用layer完成用户增删改查 - [ Thinkphp5工具箱 ]
+http://www.dawnfly.cn/article-1-314.html | thinkphp5学习之路【二】使用layer插件来定制tp5的消息提示页面 - 破晓博客-专注于Web开发
+https://chuanke.baidu.com/course/72351176544223232______2.html?statistics_channel_id=14&statistics_uid=17#step04 | IT/计算机/互联网 编程语言 PHP 网络课程 网络教育-百度传课
+http://www.panc.cc/s/%E6%B8%B8%E6%88%8F%E6%BA%90%E7%A0%81/td_0 | 游戏源码 - 胖次分享社区 - 我们热爱分享
+http://www.panc.cc/info/0c109a139eea78db/ | 网狐6603棋牌源码+送50多款游戏源码+送全套安装教程.rar - 胖次分享社区 - 我们热爱分享
+https://pan.baidu.com/share/link?uk=1278302835&shareid=1245458865 | 网狐6603棋牌源码+送50多款游戏源码+送全套安装教程.rar_免费高速下载|百度网盘-分享无限制
+https://gist.github.com/ufologist/7c14837db642a6e916ce | 在 iOS 微信浏览器中自动播放 HTML5 audio(音乐) 的正确方式
+
+http://www.bootcss.com/ | Bootstrap中文网
+http://blog.csdn.net/hbcui1984/article/details/5201247# | JAVA实现AES加密 - hbcui1984的专栏 - 博客频道 - CSDN.NET
+http://122.114.153.37:8099/v1/news.do?page=2 | System Error
+https://www.google.com/search?newwindow=1&safe=strict&biw=1920&bih=960&q=tp5+%E6%9C%8D%E5%8A%A1&oq=tp5+%E6%9C%8D%E5%8A%A1&gs_l=serp.3...4121.4121.0.4585.1.1.0.0.0.0.327.327.3-1.1.0....0...1.1.64.serp..0.0.0.AYwxRdbLpAc | tp5 服务 - Google 搜索
+http://baijunyao.com/category/27 | 白俊遥博客,技术博客,个人博客模板, php博客系统 - 白俊遥博客,技术博客,个人博客模板, php博客系统
+http://growth.phodal.com/#%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1 | Growth: 全栈增长工程师指南 –
+https://www.google.com/search?newwindow=1&safe=strict&biw=1600&bih=780&q=django+%E4%B8%AD%E6%96%87&oq=Djangoz&gs_l=serp.3.0.0l10.2474.2474.0.4401.1.1.0.0.0.0.321.321.3-1.1.0....0...1.1.64.serp..0.1.320.DSevU3Zh6t0 | django 中文 - Google 搜索
+http://wiki.jikexueyuan.com/project/django-chinese-docs-18/ | Django 中文文档1.8(连载)_Django 1.8()中文教程_Django 1.8()开发中文手册[PDF]下载-极客学院Wiki
+https://pan.baidu.com/share/link?uk=1694868809&shareid=961742890#list/path=%2F | 大型股票查询门户网站查股网整站php源码程序.rar_免费高速下载|百度网盘-分享无限制
+http://naotu.baidu.com/file/4688742be880cc8b95ba35e882e82de5 | 项目架构 - 百度脑图
+https://github.com/ningbnii/tp5_weixin/blob/master/application/admin/controller/Base.php | tp5_weixin/Base.php at master · ningbnii/tp5_weixin
+http://mall.weixindadang.com/goods.php?id=2 | 微信搭档投票评选平台 增加5000票！资源包，支付完成后将自动充值到个人票资源！该购买链接不包含套餐。无使用天数无选手人数，只在原有套餐基础上增加投票量【提示】若首次使用，请先购买套餐，该购买链接无使用时间！_微信投票评选_微信营销_微信搭档客户自助服务中心
+http://layer.layui.com/ | layer官方演示与讲解（jQuery弹出层插件）
+http://fly.layui.com/case/2017/page/2/ | 发现Layui2017年度最佳案例
+https://think.ctolog.com/admin.html#/wechat/config/index.html?spm=m-61-63 | 系统管理 - Think.Admin Demo
+http://www.layui.com/doc/modules/form.html | 表单组件文档 - layui
+https://github.com/zoujingli/Think.Admin/tree/master/application | Think.Admin/application at master · zoujingli/Think.Admin
+
+http://brower.qzbd.com/v1/user/1.do
+https://asflex.gitbooks.io/ipd-api/content/admin/login.html | 登陆接口 · Ipd api
+http://blog.csdn.net/nuli888/article/details/51849465 | redis限制单ip、单用户的访问次数 - 爱代码也爱生活 - 博客频道 - CSDN.NET
+https://www.showdoc.cc/1624510?page_id=14931642 | API文档示例 ShowDoc
+https://asflex.gitbooks.io/ipd-api/content/app/appupgrade.html | App检查更新接口 · Ipd api
+http://www.sosoapi.com/ | SosoApi,简单强大的api接口文档管理平台
+http://swagger.io/swagger-ui/ | Swagger UI
+https://github.com/star7th/showdoc/tree/master/server/Application | showdoc/server/Application at master · star7th/showdoc · GitHub
+http://localhost:8090/api/user | localhost
+https://laravel-china.org/topics/2530/the-highest-amount-of-downloads-of-the-100-laravel-extensions-recommended | 下载量最高的 100 个 Laravel 扩展包推荐 | Laravel China 社区 - 高品质的 Laravel 和 PHP 开发者社区 - Powered by PHPHub
+http://www.focusky.com.cn/ | 免费的PPT幻灯片演示制作软件,动画视频及课件制作软件 - Focusky动画演示大师官网
+http://m.niemimi.com/keys.txt | m.niemimi.com/keys.txt
+http://hd.caite.com/merchants/main.html | 半岛微营销管理系统
+https://www.google.com/search?q=laravel%E8%B7%AF%E7%94%B1&newwindow=1&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiowKLb8vHTAhVnylQKHVMxBqgQ_AUICygC&biw=1600&bih=780#imgrc=_ | laravel路由 - Google 搜索
+
+http://www.jianshu.com/p/548a8744d3ea# | 为何越努力就越纠结？——《架构师成长之路》NO.7 - 简书
+http://blog-back.qiniu.com/archives/5327 | 《架构师成长之路》连载之NO.1 | 七牛云
+https://alltoshare.com/product-category/windows/page/4/ | Windows Archives - Page 4 of 8 - 极致分享
+http://taobaoke666.com/ | QQ群淘宝客推广教程|微信群淘宝客教程【666淘宝客论坛】
+http://blog.41ms.com/category-3.html | 松鼠先生-技术分享
+https://github.com/wangyupeng | wangyupeng (王玉鹏) · GitHub
+https://easywechat.org/zh-cn/docs/server.html | 服务端 | Easy We Chat
+http://coding.imooc.com/class/97.html#Envir | ThinkPHP5.0+小程序商城构建全栈应用-慕课网实战
+https://segmentfault.com/a/1190000003926930 | 基于ThinkPHP 的Api 设计 - DreamyZero - SegmentFault
+http://www.eurekao.com/post/thinkphp-restful-web-api.html | 基于ThinkPHP开发RESTful Web API | EurekaO
+http://www.vocp.cn/laravel/53 | php关于API版本控制方案(Larvel) - 馒头的个人博客|php技术博客
+https://github.com/dingo/api | GitHub - dingo/api: A RESTful API package for the Laravel and Lumen frameworks.
+https://www.google.com/search?q=%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84+php&newwindow=1&safe=strict&ei=UMgTWej9Dcqd0wLF8bvoAw&start=30&sa=N&biw=1600&bih=780 | 项目架构 php - Google 搜索
+https://devhub.io/repos/suliang-Yaf-Blog | suliang/Yaf-Blog 由最快的PHP框架---Yaf打造的：快如闪电的博客系统 by @suliang - Repository | DevHub
+https://laravel-china.org/topics/2662/object-oriented-architecture-for-large-scale-projects-in-laravel | Laravel 中大型项目面向对象架构 | Laravel China 社区 - 高品质的 Laravel 和 PHP 开发者社区 - Powered by PHPHub
+http://oomusou.io/laravel/laravel-architecture/ | Laravel 的中大型專案架構 | 點燈坊
+http://admin99.winjubao.com/index/ | 微巨宝管理系统-登录
+
+http://www.mycodes.net/154/2.htm | 后台模板 - HTML源码 - 源码之家
+
+https://www.kancloud.cn/weber_lzw/book/252289 | PHPEXCEL导入导出excel文件 - [ 挑战者 ]
+http://www.dataoke.com/qlist/ | 领券秒杀直播，商家内部优惠券 - 大淘客联盟
+https://juhuisuan.m.fqapps.com/index/index/cat/-1/sort/0#load=1000&p=3 | 淘宝内部优惠券
+http://7xja4h.com1.z0.glb.clouddn.com/pdf%E3%80%8AMacTalk%C2%B7%E4%BA%BA%E7%94%9F%E5%85%83%E7%BC%96%E7%A8%8B%E3%80%8B.pdf | MacTalk·人生元编程
+https://mp.weixin.qq.com/advanced/advanced?action=dev&t=advanced/dev&token=421792499&lang=zh_CN | 微信公众平台
+http://m.taoyoujuan.com/index/cate/cid/7/p/22.html | 文体车品专区-优惠券商品,内部价,全场超值优惠,淘宝天猫精选好货专享
+
+http://m.niemimi.com/index.php/api/article/detail?id=5&timestamp=1490861540&uid=yy&sign=0e01562e4033d37ed7783c1d81e8ae2b | m.niemimi.com/index.php/api/article/detail?id=5&timestamp=1490861540&uid=yy&sign=0e01562e4033d37ed7783c1d81e8ae2b
+http://m.niemimi.com/index.php/api/user/gettime?deviceCode=yy | m.niemimi.com/index.php/api/user/gettime?deviceCode=yy
+http://www.itwendao.com/article/detail/349125.html | 互联网业务系统设计规范（简化版） - 互联网 - IT问道
+http://www.cnblogs.com/sharpxiajun/p/4237704.html | 关于大型网站技术演进的思考（一）--存储的瓶颈（1） - 夏天的森林 - 博客园
+http://git.oschina.net/shuaibai123/thinkphp-bjyadmin/tree/master/ | shuaibai123/thinkphp-bjyadmin - 码云 - 开源中国
+https://yq.aliyun.com/wenzhang/tag/tagid_16511 | web项目_java web项目_web项目开发流程_java web项目实例_web项目管理系统_web开发相关技术
+http://www.geekso.com/category/technical-resources/ | 技术资源 | 这一客
+file:///C:/Users/Administrator/Desktop/api/api/index.html | Java 2 Platform SE 6
+https://git.oschina.net/search?search=%E5%9B%BE%E7%89%87&type=project&language=Android&page=3&condition=stars_count | 图片 · 搜索 - 码云 - 开源中国
+https://git.oschina.net/shanren/Beauty/blob/master/Beauty/src/com/beauty/ui/ImagePager.java?dir=0&filepath=Beauty%2Fsrc%2Fcom%2Fbeauty%2Fui%2FImagePager.java&oid=7a784151fb3f8ad555266d104ab3191773a902a0&sha=5f7cf8bf8a0190b9ccbe967b43a3e7a1519a617d | Beauty/src/com/beauty/ui/ImagePager.java · 雨梦山人/Beauty - 码云 - 开源中国
+https://github.com/chrisbanes/PhotoView | chrisbanes/PhotoView: Implementation of ImageView for Android that supports zooming, by various touch gestures.
+http://blog.zhaojie.me/2010/04/why-java-sucks-and-csharp-rocks-2-primitive-types-and-object-orientation.html | Why Java Sucks and C# Rocks（2）：基础类型与面向对象 - 老赵点滴 - 追求编程之美
+http://www.imooc.com/video/2930 | 理解Web项目虚拟路径-慕课网
+http://www.avs4you.com/jp/AVS-Video-Editor.aspx | AVS Video Editorでビデオ効果、テキストや遷移と最高のビデオとオーディオが作成するできます。
+
+https://segmentfault.com/a/1190000007088964 | IntelliJ 2016.2 IDEA 中进行 Java Web 项目开发配置 - DB.Reid - SegmentFault
+http://www.error1310.com/ | Error 1310, Fix error 1310 Windows 7, Windows 10/8/8.1 & Vista
+https://www.howtogeek.com/ | How-To Geek - For Geeks, By Geeks.
+https://eclipse.org/babel/downloads.php | Eclipse Babel Project Downloads
+view-source:http://jonny.93sucai.com/admin/login/index.html | view-source:jonny.93sucai.com/admin/login/index.html
+http://jonny.93sucai.com/admin/login/index.html | JonnyAdmin后台登录
+http://www.layui.com/doc/modules/form.html | 表单组件文档 - layui
+http://fly.layui.com/case/2017/ | 发现Layui2017年度最佳案例
+http://document.thinkphp.cn/manual_3_2.html#create_data | 数据创建 - ThinkPHP3.2完全开发手册
+http://gad.qq.com/weekly/detail/113?sessionUserType=BFT.PARAMS.214218.TASKID&ADUIN=82760477&ADSESSION=1489990366&ADTAG=CLIENT.QQ.5497_.0&ADPUBNO=26621 | Gad-腾讯游戏开发者平台
+
+http://blog.csdn.net/myan/article/details/3144661 | 快速掌握一个语言最常用的50% - 孟岩 - 博客频道 - CSDN.NET
+chrome://net-internals/#dns | chrome://net-internals/#dns
+http://www.49cl.net/ | 彩乐网/福中网/香港马会开奖结果/赢彩彩票与你同行/高手网/彩富网/天下彩/天空彩票与你同行/马会彩经书/手机开奖
+http://www.jxage.com/1689.html | Solidworks2016图文安装教程 - 机械时代网
+http://zjzywap.eastday.com/m/170313064315032.html?qid=zjz&idx=1&fr=http://zjzywap.eastday.com/m/161213131421728.html&recommendtype=-1 | 嘿萝莉控们, 这可是披着幼女皮的怪物
+http://extsocketh5.dftoutiao.com/wapjson_st/checknews?type=xiaohua&endkey=&url=http%3A%2F%2Fzjzywap.eastday.com%2Fm%2F170309134106321.html&newsnum=10&recgid=14878412054791049&qid=zjz&os=iOS+9_1&isapp=0&iswifi=0&_=1489041120193&jsonpcallback=jsonp3 | extsocketh5.dftoutiao.com/wapjson_st/checknews?type=xiaohua&endkey=&url=http%3A%2F%2Fzjzywap.eastday.com%2Fm%2F170309134106321.html&newsnum=10&recgid=14878412054791049&qid=zjz&os=iOS+9_1&isapp=0&iswifi=0&_=1489041120193&jsonpcallback=jsonp3
+http://apicms.1122.com/?app_type=ios&category_id=4&limit=20&list_type=2&page=1&product=tianqijun&province=23&service=information.infolist&version=4.1.4 | apicms.1122.com/?app_type=ios&category_id=4&limit=20&list_type=2&page=1&product=tianqijun&province=23&service=information.infolist&version=4.1.4
+http://localhost/index.php/ssmt/spider/test | localhost/index.php/ssmt/spider/test
+http://a.gqtp.com/index.php/admin/Login/index | 泉州半岛客户端API接口管理
+http://m.mamiw.com/papapadongtaitu/ | 啪啪啪动态图,gif成人啪啪啪动态图,啪啪啪啪动态图,啪啪啪动态,啪啪啪动态图带声音,超邪恶啪啪啪动态图,激烈啪啪啪动态图,和美女啪啪啪动态图-诱舞坊
+http://tool.oschina.net/jscompress?type=3 | 在线 JS/CSS/HTML 压缩
+http://laravelacademy.org/post/1972.html | 使用 Laravel 快速构建网站系列 —— Laravel and AngularJS CMS – Laravel学院
+https://blog.newrelic.com/2014/05/02/25-php-developers-follow-online/ | 25个PHP开发人员在线关注
+https://jtreminio.com/2015/12/queues-working-smart-faster-in-parallel/ | Queues - Working Smarter, Faster and in Parallel — Juan Treminio — Dallas based senior web developer
+
+http://guzzle-cn.readthedocs.io/zh_CN/latest/quickstart.html#id7 | 快速入门 — Guzzle中文文档
+http://www.apkbus.com/forum.php?mod=forumdisplay&fid=417&filter=sortid&orderby=dateline&orderby=dateline&sortid=12&page=17 | Android精品源码 - Powered by Discuz!
+https://github.com/Werb/GankWithZhihu | GitHub - Werb/GankWithZhihu: just for reading
+https://github.com/youth5201314/banner/blob/master/banner/src/main/res/layout/banner.xml | banner/banner.xml at master · youth5201314/banner · GitHub
+https://www.kymjs.com/code/2016/07/10/01/ | 深入浅出 RecyclerView|开源实验室-张涛
+http://blog.csdn.net/lmj623565791/article/details/47911083 | Android OkHttp完全解析 是时候来了解OkHttp了 - Hongyang - 博客频道 - CSDN.NET
+https://github.com/hongyangAndroid/okhttputils | GitHub - hongyangAndroid/okhttputils: okhttp的辅助类
+https://segmentfault.com/q/1010000000486648 | php - 移动 APP 端与服务器端用户身份认证的安全方案 - SegmentFault
+http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html | 理解OAuth 2.0 - 阮一峰的网络日志
+https://www.google.com/search?q=JSON+Web+Token&oq=JSON+Web+Token&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | JSON Web Token - Google 搜索
+http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/ | 八幅漫画理解使用JSON Web Token设计单点登录系统 - 回田园
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#newwindow=1&safe=strict&q=openvpn+%E5%85%8D%E6%B5%81 | openvpn 免流 - Google 搜索
+http://uc.gqtp.com/index.php/link/yy?table=imgclass | uc.gqtp.com/index.php/link/yy?table=imgclass
+http://aguage.niemimi.com/index.php/Admin/Index/index | aguageblog后台管理
+
+http://ju.outofmemory.cn/entry/290142 | APP的注册和登录功能设计 - 为程序员服务
+http://www.jianshu.com/p/3703ec3e93ff | APP注册登录功能设计全方位解析 - 简书
+https://www.processon.com/view/56c3db3de4b0e5041c2ea11e | 登录注册流程图的操作流程 | 财财 | Flowchart流程图 | ProcessOn
+https://www.processon.com/view/5887321be4b098bf4d15abf4 | Web登录注册流程图 | aanro | Flowchart流程图 | ProcessOn
+https://segmentfault.com/a/1190000008186874 | 对一个“老”架构的重新思考 - 一只技术老菜鸟 - SegmentFault
+https://laravel-china.org/ | Laravel China 社区 - 高品质的 Laravel 和 PHP 开发者社区 - Powered by PHPHub
+https://www.google.com/search?q=app%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91&oq=app%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91&aqs=chrome..69i57j69i65.13259j0j1&sourceid=chrome&ie=UTF-8 | app后端开发 - Google 搜索
+https://laravel-china.org/topics/610 | 讲讲我最近用 Laravel 做的一个 App 后端项目_Laravel China 社区 - 高品质的 Laravel 和 PHP 开发者社区 - Powered by PHPHub
+http://blog.csdn.net/newjueqi/article/details/19003775 | app后端设计--总目录 - 曾健生的专栏 - 博客频道 - CSDN.NET
+http://blog.csdn.net/newjueqi/article/details/43701941 | 4.app是怎么炼成的 - 曾健生的专栏 - 博客频道 - CSDN.NET
+http://www.mailgun.com/ | Transactional Email API Service for Developers by Rackspace - Mailgun
+http://www.mob.com/downloads/ | Mob官网 - 中国最大的移动开发者服务平台 - ShareSDK官网 - 免费短信验证码 - ShareREC官网 - MobApi官网
+https://segmentfault.com/q/1010000002938194 | php - 怎么保证对外暴露接口的安全性(调用频率限制) - SegmentFault
+
+https://www.google.com.hk/search?q=php-resque&newwindow=1&safe=strict&biw=1600&bih=780&tbs=qdr:y&ei=XrKBWMKnMMOy0gSh8bH4Bg&start=10&sa=N | php-resque - Google 搜索
+https://www.google.com.hk/search?q=tp5+resque&newwindow=1&safe=strict&ei=CbSBWP73HcSl0gTDjIcQ&start=10&sa=N&biw=1600&bih=780 | tp5 resque - Google 搜索
+http://127.0.0.1:8801/index.php/home/RateJs/index?id=1256190422&web_id=1256190422 | 127.0.0.1:8801/index.php/home/RateJs/index?id=1256190422&web_id=1256190422
+https://segmentfault.com/a/1190000004136250 | 【高并发简单解决方案】redis队列缓存 + mysql 批量入库 + php离线整合 - 靠谱崔小拽 - SegmentFault
+https://github.com/orvice/ss-panel | GitHub - orvice/ss-panel: Let's talk about cat
+http://127.0.0.1:9000/user/invite | Slim Application Error
+https://my.oschina.net/golang/blog/210306 | CentOS-6安装配置JDK-8 - liaojie的个人页面
+http://avnpc.com/pages/run-background-task-by-php-resque | PHP的轻量消息队列php-resque使用说明
+https://packagist.org/packages/php-resque/resque | php-resque/resque - Packagist
+https://my.oschina.net/inuxor/blog/635959 | php-resque 极简php消息队列 - 把php坚持到底
+https://github.com/top-think | ThinkPHP · GitHub
+
+https://github.com/shadowsocks | shadowsocks·GitHub
+https://teddysun.com/342.html | Shadowsocks Python版一键安装脚本 | 秋水逸冰
+
+http://127.0.0.1:8800/admin/main/index | 斗图-后台管理
+http://blog.csdn.net/21aspnet/article/details/50728223 | Linux环境安装phpredis扩展 - 编程的数学原理 - 博客频道 - CSDN.NET
+http://hd.gqtp.com/test.php | hd.gqtp.com/test.php
+https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading#view-network-timing-details-for-a-specific-resource | 测量资源加载次数| Web | Google开发人员
+http://laravelacademy.org/post/6547.html | 基于 Laravel 5.3 开发的下一代 CMS系统 —— Coaster CMS，干货还是噱头？ – Laravel学院
+https://laravel-china.org/docs/5.3/container | Laravel 中国 - Laravel 为网页艺术家创造的 PHP 框架
+http://127.0.0.1:8801/index.php/home/index/index | 127.0.0.1:8801/index.php/home/index/index
+http://hd.gqtp.com/test.php | hd.gqtp.com/test.php
+http://a.gqtp.com/api/Template/newList | 系统发生错误
+http://wiki.jikexueyuan.com/project/redis-guide/lru-cache.html | 使用 Redis 作为 LRU 缓存 - Redis 3.0 中文版 - 极客学院Wiki
+https://www.google.co.jp/search?q=php+%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97+redis&newwindow=1&safe=strict&ei=GzF_WLSzHI6O8gWIq5yACw&start=10&sa=N&biw=1920&bih=960 | php 消息队列 redis - Google 搜索
+https://www.oschina.net/question/225877_91057 | 第一次用Redis做消息队列，求解答 - 开源中国社区
+https://segmentfault.com/a/1190000004136250 | 【高并发简单解决方案】redis队列缓存 + mysql 批量入库 + php离线整合 - 靠谱崔小拽 - SegmentFault
+http://yangfanweb.cn/php-%E4%BD%BF%E7%94%A8-redis-%E5%AE%9E%E7%8E%B0%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/ | PHP 使用 Redis 实现消息队列 | 木易巾凡
+http://avnpc.com/pages/run-background-task-by-php-resque#toc0 | PHP的轻量消息队列php-resque使用说明
+
+http://api.jiefu.tv/app2/api/dt/item/recommendList.html?pageNum=2&pageSize=48 | api.jiefu.tv/app2/api/dt/item/recommendList.html?pageNum=2&pageSize=48
+http://giphy.com/ | GIPHY | Search All the GIFs & Make Your Own Animated GIF
+http://3237526.blog.51cto.com/3227526/1641971 | 关于session的实现：cookie与url重写 - 战神阿修罗 - 51CTO技术博客
+https://blog.bingxuecandong.com/?p=199 | 淡兰色的海洋 | shadowsocks监控流量及每分钟使用情况
+https://www.google.com/search?q=ss-bash%E7%BB%9F%E8%AE%A1%E4%B8%8D%E4%BA%86&newwindow=1&safe=strict&biw=1600&bih=780&ei=q5Z9WOidOenVjwTah7XgDw&start=10&sa=N | ss-bash统计不了 - Google 搜索
+https://github.com/hellofwy/ss-bash/wiki | Home · hellofwy/ss-bash Wiki · GitHub
+https://github.com/hellofwy/ss-bash/blob/master/README.md | ss-bash/README.md at master · hellofwy/ss-bash · GitHub
+https://www.bfdz.ink/2016/11/14/30/ | Shadowsocks流量管理脚本ss-bash | BFDZ
+https://github.com/Lupino/shadowsocks-auth | GitHub - Lupino/shadowsocks-auth: 带有用户和流量统计的 shadowsocks
+https://github.com/hellofwy/ss-bash/issues/18 | 无法启动ssserver · Issue #18 · hellofwy/ss-bash · GitHub
+
+https://gold.xitu.io/entry/57fa058e2e958a005587ae40 | 使用 OpenVZVPS+shadowsocks 搭建 VPN - 掘金
+http://www.jianshu.com/p/28fd29e350b6 | 搭建Shadowsocks服务器 - 简书
+https://shadowsocks.be/9.html | ShadowsocksR一键安装脚本 - Shadowsocks非官方网站
+http://www.54yw.net/article-192-1.html | Linux安装配置VPN服务器
+http://shadowsocks.org/en/config/quick-guide.html | Shadowsocks - Quick Guide
+
+https://packagist.org/packages/dongww/web-monitor | dongww/web-monitor - Packagist
+https://github.com/nixuehan/rabbit | GitHub - nixuehan/rabbit: 违法、色情、敏感文字内容过滤 和 色情图片识别
+https://github.com/owner888/phpspider | GitHub - owner888/phpspider: 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
+https://weappdev.com/c/begin/ | 入门/工具/文档的最新主题 - 微信小程序开发论坛 － WeAppDev
+https://doc.phpspider.org/demo-start.html | 第一个demo · phpspider开发文档
+https://mp.weixin.qq.com/debug/wxadoc/dev/api/network-request.html#wxrequestobject | 发起请求 · 小程序
+http://www.sdifenzhou.com/ | 史蒂芬周的博客 | 软硬兼施，娱乐共享
+http://blog.didibird.com/2015/10/29/High-traffic-and-high-concurrency-solution/#section | 大流量高并发的解决方案之读
+http://www.jianshu.com/p/be9f0484af9d | GUI for git|SourceTree|入门基础 - 简书
+http://blog.csdn.net/collonn/article/details/39259227 | 图解GitHub和SourceTree入门教程 - 冰冻火山 - 博客频道 - CSDN.NET
+https://my.atlassian.com/products/index?sen=8963726#license_8963726 | Licenses - My Atlassian
+http://www.68idc.cn/help/jiabenmake/qita/20141112128396.html | Windows server 2012 搭建VPN图文教程（四）客户端访问VPN测试 - 鸿网互联[68IDC.CN]
+http://127.0.0.1:8800/index.php/api/Template/getDetail?detailId=503 | 系统发生错误
+http://127.0.0.1:8800/index.php/api/Spider/replace | 127.0.0.1:8800/index.php/api/Spider/replace
+https://accounts.google.com/ServiceLogin?continue=https://www.google.com.hk/preferences%3Fhl%3Dzh-CN%26prev%3Dhttps://www.google.com.hk/search%253Fsite%2526source%253Dhp%2526q%253Diphone5%252B%2525E9%2525A9%2525B1%2525E5%25258A%2525A8%2526oq%253Diphone5%252B%2525E9%2525A9%2525B1%2525E5%25258A%2525A8%2526gs_l%253Dhp.3..0l10.871.7324.0.7490.18.13.2.3.3.0.536.1542.0j4j0j1j0j1.6.0....0...1c.1j4.64.hp..7.11.1553...0i10k1j0i10i19k1j0i30i19k1j0i10i30i19k1.M7gbHGB1R64%2526bav%253Don.2,or.%2526bvm%253Dbv.143423383,d.dGo%2526biw%253D1600%2526bih%253D780%2526dpr%253D1&hl=zh-CN | 登录 - Google 帐号
+
+http://sapphire101091.mysinablog.com/index.php?op=ViewArticle&articleId=4460046 | （主線整理）黑暗組織系列II：波本的身份&新人物RUM（進度至968話） (星的日誌)
+http://scyablog.blogspot.jp/2014/10/blog-post.html | Sheracaolity: 柯南主線漫畫列表
+https://zh.wikipedia.org/wiki/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E6%BC%AB%E7%94%BB%E5%88%97%E8%A1%A8#.E7.AC.AC91.EF.BD.9E100.E5.8D.B7 | 名侦探柯南漫画列表 - 维基百科，自由的百科全书
+
+http://www.aspku.com/kaifa/php/55865.html | php实现的网络相册图片防盗链完美破解方法-PHP教程-源码库|专注为中国站长提供免费商业网站源码下载！
+http://www.we7.cc/ | 微擎，微信开发，微信运营，免费开源的公众号管理引擎-微擎官网
+http://www.x5aa.com/dongtaitu/ | 邪恶动态图_美女动态图_搞笑动态图_动漫邪恶动态图_X5AA邪恶吧
+http://keeganlee.me/post/practice/20161016 | App项目实战之路(六):数据库篇
+http://kb.cnblogs.com/page/99549/ | 一步步构建大型网站架构_知识库_博客园
+https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/character-encoding.html | 字符编码 | 程序员的自我修养
+http://blog.jobbole.com/87967/ | 大型网站图片服务器架构的演进 - 文章 - 伯乐在线
+http://blog.csdn.net/jimmy609/article/details/37909013 | java系统高并发解决方案之图片服务器分离 - jimmy609的专栏 - 博客频道 - CSDN.NET
+http://blog.jobbole.com/25944/ | Git详解之四：服务器上的Git - 文章 - 伯乐在线
+http://wiki.mob.com/sharesdk-for-web%E5%BF%AB%E9%80%9F%E9%9B%86%E6%88%90/ | 快速集成 | Mob文档中心
+http://blog.csdn.net/zhanghongzheng3213/article/details/51605622 | 《HEAD FIRST JAVA》第一次回顾和整理 - zhanghongzheng3213的专栏 - 博客频道 - CSDN.NET
+http://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/factory_method.html | 2. 工厂方法模式(Factory Method Pattern) — Graphic Design Patterns
+http://www.open-open.com/lib/tag/PHP?pn=3 | PHP - OPEN开发经验库
+https://www.jisuanke.com/ | 计蒜客 - 学习面向未来的计算机科学
+http://www.jufu111.com/main | Welcome 聚富彩票网
+https://github.com/10xjzheng/ApiManager | GitHub - 10xjzheng/ApiManager: 一个针对项目接口的管理工具，包括请求参数，返回参数的，测试请求，返回json数据的格式化
+http://blog.csdn.net/johnnycode/article/details/45543157 | 阿里云ECS架设VPN过程总结 - 王吉军-全栈工程师 - 博客频道 - CSDN.NET
+https://yq.aliyun.com/ | 云栖社区-阿里云官方开发者社区_权威的云计算社区_大数据论坛_IT技术论坛
+http://zjzd86.blog.51cto.com/6124664/1706884 | 用阿里云国外主机搭建VPN服务 - 紫禁之巅 - 51CTO技术博客
+http://www.cnblogs.com/softidea/p/5679687.html | 高性能Mysql主从架构的复制原理及配置详解(转) - 沧海一滴 - 博客园
+http://369369.blog.51cto.com/319630/790921/ | mysql主从复制（超简单） - 系统网络运维 - 51CTO技术博客
+http://www.evil0x.com/page/2 | 邪恶十六进制 | Evil_0x | 页面 2
+http://blog.itpub.net/29254281/viewspace-1841299/ | MySQL大量数据入库的性能比较-壹頁書-ITPUB博客
+http://www.tuicool.com/articles/VVfMFr | 最佳实践系列（一）—— 漫谈 PHP 组件、框架、Composer 那些事 - 推酷
+http://127.0.0.1:9900/index.php/home/login/index | 泉州半岛客户端API接口管理
+https://github.com/iuunhao/ChromePlugIns | GitHub - iuunhao/ChromePlugIns: 👏Chrome Plug-in
