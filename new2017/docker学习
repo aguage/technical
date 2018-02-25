@@ -1,0 +1,90 @@
+docker学习
+
+学习目标
+用来搭建开发运行环境
+
+docker是什么
+镜像，容器，仓库
+
+镜像是类，容器是实例，仓库是存储镜像的地方
+
+安装
+mac
+
+运行
+
+配置
+
+==使用流程
+
+1.下载镜像
+
+2.以镜像创建容器实例
+
+3.运行实例
+
+4.进入实例操作
+
+==常用命令
+-查看容器
+docker ps -a
+
+-删除容器
+docker rm 容器ID
+
+-列出所有镜像
+docker images
+
+-删除镜像
+docker rmi 镜像ID
+
+-停止容器
+docker stop 容器ID
+
+-删除所有停止的容器
+docker rm $(docker ps -a -q)
+
+-在镜像上实例化容器,-d参数表示后台运行
+docker run -d 镜像id或镜像名（ubuntu:14.04） 
+
+-创建一个守护状态的docker容器
+docker run -itd 镜像id或镜像名 /bin/bash
+
+-进入容器执行命令 -t参数表示建立一个虚拟终端与容器交互，-i是表示让终端保持着
+docker exec -it 运行中的容器ID
+
+-映射端口，让本机可以访问
+docker run -d -p 9001:80 镜像名或镜像ID
+
+===--制作自己镜像----===
+1.vi Dockerfile
+写入命令
+2.docker build -t 镜像名字标签（ijij:223） .（表示以当前目录的Dockerfile建立）
+
+
+
+===php开发环境搭建===
+1.拉去基础镜像
+docker pull centos:6.9
+2.制作镜像
+docker run -d 镜像ID
+docker exec -it 容器ID
+进入容器搭建环境lnmp，使用一键搭建lnmp.org的脚本  http://lnmp.org
+搭建ssh环境  http://blog.csdn.net/qq626387/article/details/50506636
+退出容器,停止容器
+docker stop 容器id
+3.提交容器为新的镜像
+docker commit 容器ID aga/lnmp:version
+4.以新的镜像重新运行容器,映射本地磁盘,本地端口（可在此带入命令：/usr/sbin/sshd -D lnmp start，就不用进入容器启用命令了）
+docker run -v 本地绝对路径:容器内绝对路径 -p 本地端口:容器端口 -dit 镜像ID /bin/bash
+5.进入容器运行应用
+docker exec -it 容器id /bin/bash
+lnmp start
+service sshd restart
+chkconfig sshd on
+
+
+
+
+
+

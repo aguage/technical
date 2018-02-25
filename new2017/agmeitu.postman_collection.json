@@ -1,0 +1,987 @@
+{
+	"info": {
+		"name": "agmeitu",
+		"_postman_id": "cdb0a8ce-d263-58db-b6b2-c236189c6152",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "图片类",
+			"description": "",
+			"item": [
+				{
+					"name": "获取热门图集",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/pic?page=1&sort=hits&order=desc",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"pic"
+							],
+							"query": [
+								{
+									"key": "page",
+									"value": "1",
+									"equals": true
+								},
+								{
+									"key": "sort",
+									"value": "hits",
+									"equals": true
+								},
+								{
+									"key": "order",
+									"value": "desc",
+									"equals": true
+								}
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "获取最新图集",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/pic?page=1&sort=hits&order=desc",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"pic"
+							],
+							"query": [
+								{
+									"key": "page",
+									"value": "1",
+									"equals": true
+								},
+								{
+									"key": "sort",
+									"value": "hits",
+									"equals": true
+								},
+								{
+									"key": "order",
+									"value": "desc",
+									"equals": true
+								}
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "根据图集id获取图集详情",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/pic/128/detail",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"pic",
+								"128",
+								"detail"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "根据图集id获取评论列表",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/pic/127/comment?page=1",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"pic",
+								"127",
+								"comment"
+							],
+							"query": [
+								{
+									"key": "page",
+									"value": "1",
+									"equals": true
+								}
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "评论图集",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"userId\":1,\"content\":\"哈哈23\"}"
+						},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/pic/127/comment",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"pic",
+								"127",
+								"comment"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "回复图集评论",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"userId\":1,\"content\":\"哈哈\"}"
+						},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/pic/127/comment/6/reply",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"pic",
+								"127",
+								"comment",
+								"6",
+								"reply"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "更新图集收藏量",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"hits\":1}"
+						},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/pic/105",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"pic",
+								"105"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "根据栏目id获取图集列表",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/pic?cid=2&page=2&sort=id&order=desc",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"pic"
+							],
+							"query": [
+								{
+									"key": "cid",
+									"value": "2",
+									"equals": true
+								},
+								{
+									"key": "page",
+									"value": "2",
+									"equals": true
+								},
+								{
+									"key": "sort",
+									"value": "id",
+									"equals": true
+								},
+								{
+									"key": "order",
+									"value": "desc",
+									"equals": true
+								}
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "根据搜索词获取图集列表",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/pic?keyword=演员&page=1&sort=id&order=desc",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"pic"
+							],
+							"query": [
+								{
+									"key": "keyword",
+									"value": "演员",
+									"equals": true
+								},
+								{
+									"key": "page",
+									"value": "1",
+									"equals": true
+								},
+								{
+									"key": "sort",
+									"value": "id",
+									"equals": true
+								},
+								{
+									"key": "order",
+									"value": "desc",
+									"equals": true
+								}
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "获取图集栏目列表",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meitu.niemimi.com/api/v1/pic/category",
+							"protocol": "http",
+							"host": [
+								"meitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"pic",
+								"category"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "用户类",
+			"description": "",
+			"item": [
+				{
+					"name": "用户登录",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Uuid",
+								"value": "ffffffff-cd37-1959-ffff-ffff98ba7625"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"username\":\"aguage\",\"password\":\"888888\"}"
+						},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/user/token",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"user",
+								"token"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "用户注册",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Uuid",
+								"value": "ffffffff-cd37-1959-ffff-ffff98ba7625"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"nickname\":\"测试12\",\"username\":\"ttt1\",\"password\":\"123456\",\"sex\":\"男\"}"
+						},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/user",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"user"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "修改头像",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Uuid",
+								"value": "ffffffff-cd37-1959-ffff-ffff98ba7625"
+							},
+							{
+								"key": "Authorization",
+								"value": "6b59XeEuKDYwVy2fevfRWOrvVtHEuE6lEEF3D7YJ/AfsA4GKkfkoGH4M51XBg/Oxvla6+8m9/ZZPhZ8jx9Ich+TL2PS/M3aqKQXqiZY8WeVj"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "avatar",
+									"value": "",
+									"description": "",
+									"type": "file"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/user/1/avatar",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"user",
+								"1",
+								"avatar"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "修改用户信息",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "Token",
+								"value": "49d1RakEPRC7clv8nq1KmlI4jdFL6oWFB/+ud+O0wqTN5ofXloHhunVttmfydxohlgX0sZR8G69CLfpzIpNtLPY206bm4T7Vr//xgKheaJk"
+							},
+							{
+								"key": "Uuid",
+								"value": "ffffffff-cd37-1959-ffff-ffff98ba7625"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"email\":\"1@qq.com\"}"
+						},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/user/1/info",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"user",
+								"1",
+								"info"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "修改用户密码",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "d35dwYSAuYCXDDBRXkoLStvOuKZxOJ7gDLFUCuu10tuPpIX+m4P6fpq9gjqSA6dEpaxetE+/151pwl7ohOErTJRXZC+kgxbt3qfIq5G5B+o"
+							},
+							{
+								"key": "Uuid",
+								"value": "ffffffff-cd37-1959-ffff-ffff98ba7625"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"oldPassword\":\"888888\",\"newPassword\":\"888888\"}"
+						},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/user-modified-password",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"user-modified-password"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "栏目类",
+			"description": "",
+			"item": [
+				{
+					"name": "获取图集栏目列表",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/category-pic-list",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"category-pic-list"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "搜索类",
+			"description": "",
+			"item": [
+				{
+					"name": "随机获取搜索词",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meizitu.niemimi.com/api/v1/search-key",
+							"protocol": "http",
+							"host": [
+								"meizitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"search-key"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "根据搜索词获取动态列表",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "阿斯顿发生东方闪",
+							"host": [
+								"阿斯顿发生东方闪"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "圈子类",
+			"description": "",
+			"item": [
+				{
+					"name": "获取最新动态",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meitu.niemimi.com/api/v1/moments-new-list?page=1",
+							"protocol": "http",
+							"host": [
+								"meitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"moments-new-list"
+							],
+							"query": [
+								{
+									"key": "page",
+									"value": "1",
+									"equals": true
+								}
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "上传动态",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "43d3QmH+6qLqMze2B1tWGtn0XVo4AAouXl/50lRW44GCyoWFLZ/2Q7f5L86i8FHuQGC3veL9GHZpCb3r16Oo10iAXcea6+Sf5WExGC+dY5M"
+							},
+							{
+								"key": "Uuid",
+								"value": "ffffffff-cd37-1959-ffff-ffff98ba7625"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "content",
+									"value": "一大波福利来嘻嘻嘻嘻嘻",
+									"description": "",
+									"type": "text"
+								},
+								{
+									"key": "image[]",
+									"value": "",
+									"description": "",
+									"type": "file"
+								},
+								{
+									"key": "image[]",
+									"value": "",
+									"description": "",
+									"type": "file"
+								},
+								{
+									"key": "image[]",
+									"value": "",
+									"description": "",
+									"type": "file"
+								},
+								{
+									"key": "image[]",
+									"value": "",
+									"description": "",
+									"type": "file"
+								},
+								{
+									"key": "image[]",
+									"value": "",
+									"description": "",
+									"type": "file"
+								},
+								{
+									"key": "image[]",
+									"value": "",
+									"description": "",
+									"type": "file"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://meitu.niemimi.com/api/v1/moments-upload",
+							"protocol": "http",
+							"host": [
+								"meitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"moments-upload"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "动态评论上传",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "uid",
+									"value": "1",
+									"description": "",
+									"type": "text"
+								},
+								{
+									"key": "content",
+									"value": "哈哈",
+									"description": "",
+									"type": "text"
+								},
+								{
+									"key": "mid",
+									"value": "1",
+									"description": "",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://meitu.niemimi.com/api/v1/moments-comment-upload",
+							"protocol": "http",
+							"host": [
+								"meitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"moments-comment-upload"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "动态评论回复",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "pid",
+									"value": "1",
+									"description": "",
+									"type": "text"
+								},
+								{
+									"key": "uid",
+									"value": "2",
+									"description": "",
+									"type": "text"
+								},
+								{
+									"key": "mid",
+									"value": "1",
+									"description": "",
+									"type": "text"
+								},
+								{
+									"key": "content",
+									"value": "我是回复",
+									"description": "",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://meitu.niemimi.com/api/v1/moments-comment-reply",
+							"protocol": "http",
+							"host": [
+								"meitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"moments-comment-reply"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "根据动态id获取动态详情",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "根据动态id获取动态详情",
+							"host": [
+								"根据动态id获取动态详情"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "动态点赞",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "动态点赞",
+							"host": [
+								"动态点赞"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "其他类",
+			"description": "",
+			"item": [
+				{
+					"name": "app检查更新",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meitu.niemimi.com/api/v1/check-upgrade",
+							"protocol": "http",
+							"host": [
+								"meitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"check-upgrade"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "获取banner列表",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "http://meitu.niemimi.com/api/v1/banner-list",
+							"protocol": "http",
+							"host": [
+								"meitu",
+								"niemimi",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"banner-list"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "获取精品app列表",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "获取精品app列表",
+							"host": [
+								"获取精品app列表"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "用户反馈",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"url": {
+							"raw": "用户反馈",
+							"host": [
+								"用户反馈"
+							]
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
