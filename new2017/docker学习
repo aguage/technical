@@ -63,12 +63,12 @@ docker run -d -p 9001:80 镜像名或镜像ID
 
 
 
-===php开发环境搭建===
+===php开发环境搭建===   在win上需要在命令行程序里面运行才可以，再git-bash里面,前面要多加winpty docker...
 1.拉去基础镜像
 docker pull centos:6.9
 2.制作镜像
-docker run -d 镜像ID
-docker exec -it 容器ID
+docker run -itd 镜像ID    ===建立容器并在后台运行起来 
+docker exec -it 容器ID /bin/bash    ===win10 docker exec -it 容器id bash
 进入容器搭建环境lnmp，使用一键搭建lnmp.org的脚本  http://lnmp.org
 搭建ssh环境  http://blog.csdn.net/qq626387/article/details/50506636
 退出容器,停止容器
@@ -77,14 +77,21 @@ docker stop 容器id
 docker commit 容器ID aga/lnmp:version
 4.以新的镜像重新运行容器,映射本地磁盘,本地端口（可在此带入命令：/usr/sbin/sshd -D lnmp start，就不用进入容器启用命令了）
 docker run -v 本地绝对路径:容器内绝对路径 -p 本地端口:容器端口 -dit 镜像ID /bin/bash
-5.进入容器运行应用
+
+5.进入容器运行应用  这里还要特地进入容器执行这些命令，有没有办法直接让容器运行时候就运行命令呢？？？？？
 docker exec -it 容器id /bin/bash
 lnmp start
 service sshd restart
 chkconfig sshd on
 
+##注：若一直出现base: service: command not found ,则执行yum install initscripts
+参考http://blog.csdn.net/u014175572/article/details/53375049  
+
+映射本地磁盘的意思是 容器内的磁盘位置和本地是一样的，哪个改变都会同步哪个
 
 
+docker run -v f:\hyz:/home/wwwroot -p 8090:80 -idt 7d6 bash
 
-
-
+问题汇总：
+在win10系统里，创建运行容器的时候如果出现端口映射不了的时候，要关闭win10的快速启动功能，就能解决
+或者和本地的端口冲突了
